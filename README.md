@@ -3,7 +3,7 @@
 # Cost-of-Living-Analysis
 
 # Problem Statement
-The objective of this project i sto analyze the cost of livings in different regions of the world. Some key points to focus -
+The objective of this project is to analyze the cost of livings in different regions of the world. Some key points to focus -
 
 - Analyze the amount of money to survive in different geographical areas.
 - Comparing the cost of living in different cities.
