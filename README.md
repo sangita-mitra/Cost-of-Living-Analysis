@@ -14,4 +14,4 @@ The objective of this project is to analyze the cost of livings in different reg
 - Analyzing cost of living.
 - Recommending better places to live.
 
-I've used python, numpy, pandas, focium, geopy, matplotlib, seaborn, plottly and scikit leran for the analysis.
+I've used python, numpy, pandas, folium, geopy, matplotlib, seaborn, plottly and scikit leran for the analysis.
